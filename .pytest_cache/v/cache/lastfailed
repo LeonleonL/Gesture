@@ -1,0 +1,4 @@
+{
+  "auto_encoder_1.py::test": true,
+  "auto_encoder_2.py::test": true
+}
